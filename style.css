@@ -1,0 +1,27 @@
+.containe{
+   padding-left: 5rem;
+   padding-right: 5rem;
+}
+.navbar{
+    background-color: black;
+}
+.collapse .nav-item a{
+    color:white;
+} 
+.containe button{
+    width: 7rem;
+    height: 2rem;
+    margin: 1rem;
+}
+.containe button .btn{
+    padding-bottom: 1rem;
+}
+.mb-3{
+    width: 60rem;
+    
+
+}
+.form-floating{
+    width: 60rem;
+   
+}
